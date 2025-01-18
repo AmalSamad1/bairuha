@@ -5,8 +5,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon app.js",
-        "dev": "nodemon app.js",
-        "heroku": "git add .; git commit -m 'heroku'; git push heroku master"
+        "dev": "nodemon app.js"
     },
     "keywords": [],
     "author": "",
